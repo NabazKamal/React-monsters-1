@@ -16,20 +16,22 @@ class App extends Component {
       .then(result => result.json())
       .then(users => this.setState({ monsters: users }));
   }
-  handleChange  = (e) => {this.setState({searchField: e.target.value}
-    );}
+  handleChange = e => {
+    this.setState({ searchField: e.target.value });
+  };
   render() {
-const {monsters, searchField} = this.state;
-const filteredMonsters = (
-  monsters.filter(monster => monster.name.toLowerCase()
-  .includes(searchField.toLowerCase())
-  )
-);
+    const { monsters, searchField } = this.state;
+    const filteredMonsters = monsters.filter(monster =>
+      monster.name.toLowerCase().includes(searchField.toLowerCase())
+    );
 
     return (
       <div className="App">
-        <SearchBox placeholder="search monster" handleChange=
-        { this.handleChange} />
+        <h1>Monsters Rolodex</h1>
+        <SearchBox
+          placeholder="search monster"
+          handleChange={this.handleChange}
+        />
         <CardList monsters={filteredMonsters} />
       </div>
     );
