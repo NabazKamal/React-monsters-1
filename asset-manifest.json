@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/NabazKamal/React-monsters-1/static/css/main.25db4689.chunk.css",
+    "main.css": "/NabazKamal/React-monsters-1/static/css/main.0d982d80.chunk.css",
     "main.js": "/NabazKamal/React-monsters-1/static/js/main.b51b019c.chunk.js",
     "main.js.map": "/NabazKamal/React-monsters-1/static/js/main.b51b019c.chunk.js.map",
     "runtime-main.js": "/NabazKamal/React-monsters-1/static/js/runtime-main.571b1da6.js",
@@ -8,15 +8,15 @@
     "static/js/2.0d232ef2.chunk.js": "/NabazKamal/React-monsters-1/static/js/2.0d232ef2.chunk.js",
     "static/js/2.0d232ef2.chunk.js.map": "/NabazKamal/React-monsters-1/static/js/2.0d232ef2.chunk.js.map",
     "index.html": "/NabazKamal/React-monsters-1/index.html",
-    "precache-manifest.1d8fe8991a677c5a913cab53ba503091.js": "/NabazKamal/React-monsters-1/precache-manifest.1d8fe8991a677c5a913cab53ba503091.js",
+    "precache-manifest.97ae41df8f46080ef4c711a4c7f2fef4.js": "/NabazKamal/React-monsters-1/precache-manifest.97ae41df8f46080ef4c711a4c7f2fef4.js",
     "service-worker.js": "/NabazKamal/React-monsters-1/service-worker.js",
-    "static/css/main.25db4689.chunk.css.map": "/NabazKamal/React-monsters-1/static/css/main.25db4689.chunk.css.map",
+    "static/css/main.0d982d80.chunk.css.map": "/NabazKamal/React-monsters-1/static/css/main.0d982d80.chunk.css.map",
     "static/js/2.0d232ef2.chunk.js.LICENSE.txt": "/NabazKamal/React-monsters-1/static/js/2.0d232ef2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.571b1da6.js",
     "static/js/2.0d232ef2.chunk.js",
-    "static/css/main.25db4689.chunk.css",
+    "static/css/main.0d982d80.chunk.css",
     "static/js/main.b51b019c.chunk.js"
   ]
 }
